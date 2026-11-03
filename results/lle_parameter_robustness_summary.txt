@@ -1,0 +1,6 @@
+LLE parameter robustness summary
+
+- overall_asymmetry_combined_therapy: direction match 100% across 8 configs; estimate range [-0.0111, -0.0061], nominal p<0.05 in 100%
+- overall_asymmetry_medication_only: direction match 100% across 8 configs; estimate range [-0.0076, -0.0056], nominal p<0.05 in 88%
+- toe_coupling_combined_therapy: direction match 100% across 8 configs; estimate range [0.0518, 0.2341], nominal p<0.05 in 88%
+- toe_coupling_stim_factorial_theiler: direction match 75% across 8 configs; estimate range [-0.0531, 0.0876], nominal p<0.05 in 62%

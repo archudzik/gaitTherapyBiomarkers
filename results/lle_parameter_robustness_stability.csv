@@ -1,0 +1,5 @@
+result_name,n_configs,n_finite,expected_direction,direction_match_fraction,estimate_min,estimate_max,effect_size_dz_min,effect_size_dz_max,nominal_p_lt_0p05_fraction,fdr_q_lt_0p10_fraction
+overall_asymmetry_combined_therapy,8,8,-1,1.0,-0.0111228819596218,-0.0060836360581253,-0.8576652973539429,-0.4897545321846347,1.0,0.875
+overall_asymmetry_medication_only,8,8,-1,1.0,-0.0076099168798025,-0.0056237745073684,-0.7726351275749198,-0.5785579030551984,0.875,0.875
+toe_coupling_combined_therapy,8,8,1,1.0,0.0518319798554732,0.2340581101541107,0.3449612503952692,0.986382665886552,0.875,0.75
+toe_coupling_stim_factorial_theiler,8,8,1,0.75,-0.0531026623244701,0.0875547831370534,-0.6625342455232164,1.0028049929249183,0.625,0.5

@@ -1,0 +1,7 @@
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.13.1
+matplotlib==3.9.2
+pymc==5.28.5
+arviz==0.23.4
+ezc3d==1.5.18

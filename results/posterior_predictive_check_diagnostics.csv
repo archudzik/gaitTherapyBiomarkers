@@ -1,0 +1,13 @@
+model,endpoint,metric_variant,source_column,n_rows,n_patients,n_ppc_draws,seed,runtime_seconds,max_r_hat,min_ess_bulk,divergences
+main_effects,overall_lle_asymmetry,primary_self_match_only,abs_overall_asymmetry_mean,144,19,4000,1532145863,7.117353499983437,1.0,1481.0,0
+main_effects,overall_lle_asymmetry,theiler_excluded,abs_overall_asymmetry_theiler_mean,144,19,4000,192841468,5.902388200047426,1.0,1594.0,0
+task_interaction,overall_lle_asymmetry,primary_self_match_only,abs_overall_asymmetry_mean,144,19,4000,3334904780,8.025686800014228,1.01,1054.0,0
+main_effects,heel_lle_asymmetry,primary_self_match_only,abs_heel_asymmetry_mean,144,19,4000,4023284144,5.880810900009237,1.0,1484.0,0
+main_effects,heel_lle_asymmetry,theiler_excluded,abs_heel_asymmetry_theiler_mean,144,19,4000,278965539,5.683857800089754,1.0,1394.0,0
+task_interaction,heel_lle_asymmetry,primary_self_match_only,abs_heel_asymmetry_mean,144,19,4000,3596524414,6.4624757000710815,1.0,976.0,0
+main_effects,overall_lle_coupling,primary_self_match_only,left_right_mean_lle_correlation,144,19,4000,1005913328,5.710870399954729,1.0,1604.0,0
+main_effects,overall_lle_coupling,theiler_excluded,left_right_mean_lle_correlation_theiler,144,19,4000,2071053538,5.675819299998693,1.0,1564.0,0
+task_interaction,overall_lle_coupling,primary_self_match_only,left_right_mean_lle_correlation,144,19,4000,1969519175,6.476204299950041,1.0,1115.0,0
+main_effects,toe_lle_coupling,primary_self_match_only,LTOE_RTOE_lle_correlation,144,19,4000,1634704093,5.772258899989538,1.0,1542.0,0
+main_effects,toe_lle_coupling,theiler_excluded,LTOE_RTOE_lle_correlation_theiler,144,19,4000,2381923974,5.883406300097704,1.0,1419.0,0
+task_interaction,toe_lle_coupling,primary_self_match_only,LTOE_RTOE_lle_correlation,144,19,4000,4064500086,6.140731799998321,1.01,979.0,0

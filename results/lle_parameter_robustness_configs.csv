@@ -1,0 +1,9 @@
+config_label,window_seconds,smoothing_window_length,smoothing_polyorder,embedding_json,dataset_rows,patients,task
+baseline,1.0,11,3,"{""LHEE"": {""d"": 3, ""tau"": 25}, ""LTOE"": {""d"": 3, ""tau"": 25}, ""RHEE"": {""d"": 3, ""tau"": 25}, ""RTOE"": {""d"": 3, ""tau"": 25}}",73,19,normal_walking
+window_0p8s,0.8,11,3,"{""LHEE"": {""d"": 3, ""tau"": 25}, ""LTOE"": {""d"": 3, ""tau"": 25}, ""RHEE"": {""d"": 3, ""tau"": 25}, ""RTOE"": {""d"": 3, ""tau"": 25}}",73,19,normal_walking
+window_1p2s,1.2,11,3,"{""LHEE"": {""d"": 3, ""tau"": 25}, ""LTOE"": {""d"": 3, ""tau"": 25}, ""RHEE"": {""d"": 3, ""tau"": 25}, ""RTOE"": {""d"": 3, ""tau"": 25}}",73,19,normal_walking
+embedding_d2_tau25,1.0,11,3,"{""LHEE"": {""d"": 2, ""tau"": 25}, ""LTOE"": {""d"": 2, ""tau"": 25}, ""RHEE"": {""d"": 2, ""tau"": 25}, ""RTOE"": {""d"": 2, ""tau"": 25}}",73,19,normal_walking
+embedding_d3_tau20,1.0,11,3,"{""LHEE"": {""d"": 3, ""tau"": 20}, ""LTOE"": {""d"": 3, ""tau"": 20}, ""RHEE"": {""d"": 3, ""tau"": 20}, ""RTOE"": {""d"": 3, ""tau"": 20}}",73,19,normal_walking
+embedding_d3_tau30,1.0,11,3,"{""LHEE"": {""d"": 3, ""tau"": 30}, ""LTOE"": {""d"": 3, ""tau"": 30}, ""RHEE"": {""d"": 3, ""tau"": 30}, ""RTOE"": {""d"": 3, ""tau"": 30}}",73,19,normal_walking
+smooth_7,1.0,7,3,"{""LHEE"": {""d"": 3, ""tau"": 25}, ""LTOE"": {""d"": 3, ""tau"": 25}, ""RHEE"": {""d"": 3, ""tau"": 25}, ""RTOE"": {""d"": 3, ""tau"": 25}}",73,19,normal_walking
+smooth_15,1.0,15,3,"{""LHEE"": {""d"": 3, ""tau"": 25}, ""LTOE"": {""d"": 3, ""tau"": 25}, ""RHEE"": {""d"": 3, ""tau"": 25}, ""RTOE"": {""d"": 3, ""tau"": 25}}",73,19,normal_walking

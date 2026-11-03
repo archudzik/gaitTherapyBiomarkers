@@ -1,0 +1,10 @@
+Bayesian hierarchical model compute report
+
+Platform: Windows-11-10.0.26200-SP0
+Processor: 13th Gen Intel(R) Core(TM) i9-13900KF
+Logical CPU cores: 32
+RAM: 31.8 GB
+Models fitted: 12
+Base random seed: 2026
+Sampling: 4 chains, 1000 tune + 1000 draws
+Total runtime: 90.5 seconds (1.5 minutes)

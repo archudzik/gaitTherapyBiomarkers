@@ -1,0 +1,13 @@
+model,endpoint,metric_variant,max_r_hat,min_ess_bulk,divergences,n_rows,n_patients
+main_effects,heel_lle_asymmetry,primary_self_match_only,1.0,1484.0,0,144,19
+main_effects,heel_lle_asymmetry,theiler_excluded,1.0,1394.0,0,144,19
+main_effects,overall_lle_asymmetry,primary_self_match_only,1.0,1481.0,0,144,19
+main_effects,overall_lle_asymmetry,theiler_excluded,1.0,1594.0,0,144,19
+main_effects,overall_lle_coupling,primary_self_match_only,1.0,1604.0,0,144,19
+main_effects,overall_lle_coupling,theiler_excluded,1.0,1564.0,0,144,19
+main_effects,toe_lle_coupling,primary_self_match_only,1.0,1542.0,0,144,19
+main_effects,toe_lle_coupling,theiler_excluded,1.0,1419.0,0,144,19
+task_interaction,heel_lle_asymmetry,primary_self_match_only,1.0,976.0,0,144,19
+task_interaction,overall_lle_asymmetry,primary_self_match_only,1.01,1054.0,0,144,19
+task_interaction,overall_lle_coupling,primary_self_match_only,1.0,1115.0,0,144,19
+task_interaction,toe_lle_coupling,primary_self_match_only,1.01,979.0,0,144,19

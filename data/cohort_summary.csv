@@ -1,0 +1,4 @@
+endpoint,n,mean,sd,median,iqr,min,max
+sex_male_n,15,,,,,,
+sex_female_n,4,,,,,,
+age_years,19,60.05263157894737,9.559600666988173,63.0,11.5,34.0,73.0
