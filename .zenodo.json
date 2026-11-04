@@ -1,0 +1,24 @@
+{
+  "creators": [
+    {
+      "name": "Chudzik, Artur"
+    },
+    {
+      "name": "Josiński, Henryk"
+    },
+    {
+      "name": "Przybyszewski, Andrzej"
+    }
+  ],
+  "title": "Interpretable Machine Learning Evaluates Differential Therapy Effects in Parkinsonian Gait — Supplementary Code and Data",
+  "description": "Final supplementary code, derived gait and clinical-feature tables, and analysis results accompanying the accepted NeurIPS 2026 paper \"Interpretable Machine Learning Evaluates Differential Therapy Effects in Parkinsonian Gait\". Original software is licensed under MIT (LICENSE-CODE); author-produced derived data, results and documentation are licensed under CC BY 4.0 (LICENSE-DATA and LICENSE-CONTENT). Raw participant trajectories and linked source clinical records are not included.",
+  "upload_type": "software",
+  "license": "mit",
+  "keywords": [
+    "NeurIPS 2026",
+    "Parkinsonian gait",
+    "therapy effects",
+    "gait biomarkers",
+    "reproducibility"
+  ]
+}
