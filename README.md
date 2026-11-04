@@ -57,7 +57,7 @@ The raw-data scripts are included to document the complete method. They cannot b
 
 This is the camera-ready release tree. Author-written code is available under the MIT License. Author-produced de-identified derived data and documentation are available under CC BY 4.0. See `LICENSE-CODE`, `LICENSE-DATA`, and `LICENSE-CONTENT` for the exact scope and exclusions.
 
-The final public GitHub URL and Zenodo DOI will be added after publication. Raw motion-capture trajectories, linked clinical source records, private documents, local reference PDFs, and third-party materials are not part of this release and are not covered by its licenses.
+The final supplementary materials are archived as [GitHub release 1.0.0](https://github.com/archudzik/gaitTherapyBiomarkers/releases/tag/1.0.0). The archived release has the version-specific Zenodo DOI [10.5281/zenodo.23962355](https://doi.org/10.5281/zenodo.23962355); the DOI for the archive across versions is [10.5281/zenodo.23962354](https://doi.org/10.5281/zenodo.23962354). Raw motion-capture trajectories, linked clinical source records, private documents, local reference PDFs, and third-party materials are not part of this release and are not covered by its licenses.
 
 ## License map
 
