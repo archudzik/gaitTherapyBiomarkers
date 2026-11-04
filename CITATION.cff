@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these supplementary materials, cite the archived Zenodo release (version 1.0.0)."
+type: software
+title: "Parkinsonian Gait Therapy Biomarkers (NeurIPS 2026 Supplementary Materials)"
+authors:
+  - family-names: Chudzik
+    given-names: Artur
+  - family-names: Josiński
+    given-names: Henryk
+  - family-names: Przybyszewski
+    given-names: Andrzej
+version: 1.0.0
+date-released: 2026-11-04
+doi: 10.5281/zenodo.23962355
+repository-code: https://github.com/archudzik/gaitTherapyBiomarkers
+url: https://doi.org/10.5281/zenodo.23962355
+abstract: >-
+  Final supplementary analysis code, pseudonymized derived gait and
+  clinical-feature tables, and machine-readable results accompanying the
+  accepted NeurIPS 2026 paper "Interpretable Machine Learning Evaluates
+  Differential Therapy Effects in Parkinsonian Gait". Original code is MIT
+  licensed; author-produced derived data, results, and documentation are
+  CC BY 4.0. Consult the separate LICENSE-CODE, LICENSE-DATA, and
+  LICENSE-CONTENT files for their respective scopes.
