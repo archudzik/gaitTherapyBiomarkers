@@ -1,0 +1,27 @@
+{
+  "creators": [
+    {
+      "name": "Chudzik, Artur"
+    },
+    {
+      "name": "Josiński, Henryk"
+    },
+    {
+      "name": "Przybyszewski, Andrzej"
+    }
+  ],
+  "title": "gaitTherapyBiomarkers: supplementary analysis code and derived gait data",
+  "description": "<p>Prepublication research supplementary materials for the manuscript <em>Interpretable Machine Learning Evaluates Differential Therapy Effects in Parkinsonian Gait</em>. The archive includes original Python analysis scripts, pseudonymized derived gait and clinical feature tables, aggregate cohort statistics, documentation, and machine-readable analysis results. It does not include raw motion-capture trajectories or linked source clinical records.</p><p><strong>Licensing by file type:</strong> original code in <code>code/</code> is MIT-licensed (LICENSE-CODE); released author-produced derived datasets in <code>data/</code> and machine-readable results in <code>results/</code> are CC BY 4.0 (LICENSE-DATA); original documentation is CC BY 4.0 (LICENSE-CONTENT). The MIT value below describes the software component only and does not relicense the included data or documentation. No license or redistribution rights are granted for non-included participant source data or third-party materials. See the README license map.</p><p>This is a software/data supplementary archive, not a published or accepted journal/conference paper. A manuscript DOI will be linked only when available.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "Parkinsonian gait",
+    "therapy effects",
+    "gait biomarkers",
+    "biomechanics",
+    "reproducible research",
+    "Bayesian hierarchical models"
+  ],
+  "language": "eng"
+}
